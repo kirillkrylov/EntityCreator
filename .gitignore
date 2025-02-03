@@ -1,0 +1,6 @@
+﻿**/[B-b]in/
+**/[O-o]bj/
+**/.vs/
+**/.vscode/
+**/.idea/
+**/*.sln.DotSettings.user
